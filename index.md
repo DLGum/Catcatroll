@@ -1,16 +1,20 @@
 ## 这里是肥猫
+
 ### ~~为了照顾你们这帮兔崽子~~做了个all in one网页。
+
+---
 
 ### 最近须知
 
-1：使用不太顺畅可以尝试套CND。教程在 三 下载。
+** 1：一直以来直接使用不太顺畅可以尝试套CND。教程在 三 下载。 **
 
+---
 
 ### 一：客户端网盘不限速下载
-```
-https://wwa.lanzous.com/b0dwj7fkh
-密码:6666
-```
+
+**https://wwa.lanzous.com/b0dwj7fkh**
+
+**密码:6666**
 
 ### 二：图文教程在线版
 
@@ -23,10 +27,10 @@ https://wwa.lanzous.com/b0dwj7fkh
 #### 4：白嫖CND教程在下面
 
 #### 三：教程网盘不限速下载
-```
-https://wwa.lanzous.com/b0dwngrmj
-密码:6666
-```
+
+**https://wwa.lanzous.com/b0dwngrmj**
+
+**密码:6666**
 
 ### 客户端项目地址
 ```
