@@ -1,7 +1,28 @@
-- [Clash简介](#clash--)
-- [一：创建clash订阅链接](#----clash----)
+[Clash简介](#Clash简介)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> 
+[一：【创建clash订阅链接】](#二：[安卓设置与使用])
+
+[二：【安卓设置与使用】](#二：[安卓设置与使用])
+
+[三：【iOS的Pharos Pro】](#三：[iOS的Pharos Pro])
+
+[四：【windows设置与使用】](#四：[windows设置与使用])
+
+[五：【mac与linux】详细图文教程](#五：[mac与linux]详细图文教程)
+
+[六：【电脑注意配合浏览器插件SwitchyOmega使用】](#六：[电脑注意配合浏览器插件SwitchyOmega使用])
+
+[七：【iOS的QuantumultX】](#七：[iOS的QuantumultX])
+
+[八：【疑难杂症解决】](#八：[疑难杂症解决])
+
+[九：【客户端下载地址一览】](#九：[客户端下载地址一览])
+
+[十：【clash导入问题解决】](#十：[clash导入问题解决])
+
+
+
+
 
 
 ---
@@ -14,7 +35,7 @@
 
 **【目前唯一的缺点】是需要出墙后才能确保订阅导入成功，否则经常失败 **
 
-# 一：创建clash订阅链接
+# 一：【创建clash订阅链接】
 
 **1：打开网站**<https://bianyuan.xyz/>
 
@@ -78,7 +99,7 @@
 
 **其他图文教程自己搜搜。这里随便贴一个http://suo.im/5SzxxK**
 
-# 六：【电脑注意配合浏览器插件SwitchyOmega使用】
+# 六：【【电脑注意配合浏览器插件SwitchyOmega使用】】
 
 **原因：不像v2可以手改pac增减网站。clash的规则手改很麻烦。**
 
