@@ -1,5 +1,7 @@
 ### [返回all in one主页](https://catcatroll.fun/)
 
+---
+
 # 目录
 
 [简介](#简介)
@@ -115,5 +117,7 @@
 **复制线路、订阅地址时注意别多复制了空格**
 
 ![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/e56c452bd8194cc966ff0ab096138638.png)![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/8a5dac0695053220afd710516bd9df6d.png)
+
+---
 
 ### [返回all in one主页](https://catcatroll.fun/)
