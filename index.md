@@ -12,7 +12,7 @@
 
 ### 客户端下载 - 网盘不限速
 
-**https://wwa.lanzous.com/b0dwj7fkh**
+**[https://wwa.lanzous.com/b0dwj7fkh](https://wwa.lanzous.com/b0dwj7fkh)**
 
 **密码:6666**
 
@@ -30,7 +30,7 @@
 
 ### 教程下载 - 网盘不限速
 
-**https://wwa.lanzous.com/b0dwngrmj**
+**[https://wwa.lanzous.com/b0dwngrmj](https://wwa.lanzous.com/b0dwngrmj)**
 
 **密码:6666**
 
