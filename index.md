@@ -10,7 +10,7 @@
 
 ---
 
-### 客户端网盘不限速下载
+### 客户端下载 - 网盘不限速
 
 **https://wwa.lanzous.com/b0dwj7fkh**
 
@@ -28,7 +28,7 @@
 
 ---
 
-#### 教程网盘不限速下载
+#### 教程下载 - 网盘不限速
 
 **https://wwa.lanzous.com/b0dwngrmj**
 
