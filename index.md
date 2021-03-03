@@ -1,13 +1,18 @@
 ## 这里是肥猫
-### ~~为了照顾你们这帮兔崽子~~我把教程和客户端下载做成all in one网页了。
+### ~~为了照顾你们这帮兔崽子~~做了个all in one网页。
 
-### 客户端下载
+### 最近须知
+
+1：使用不太顺畅可以尝试套CND。教程在 三 下载。
+
+
+### 一：客户端网盘不限速下载
 ```
 https://wwa.lanzous.com/b0dwj7fkh
 密码:6666
 ```
 
-###教程
+### 二：图文教程在线版
 
 #### 1：[Qv2ray图文教程](https://dlgum.github.io/LazyCat-DD/Qv2ray图文教程)
 
@@ -15,7 +20,9 @@ https://wwa.lanzous.com/b0dwj7fkh
 
 #### 3：[v2rayNG与小火箭教程](https://dlgum.github.io/LazyCat-DD/v2rayNG与小火箭教程)
 
-#### 教程直接下载
+#### 4：白嫖CND教程在下面
+
+#### 三：教程网盘不限速下载
 ```
 https://wwa.lanzous.com/b0dwngrmj
 密码:6666
