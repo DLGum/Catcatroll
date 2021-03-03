@@ -24,8 +24,6 @@
 
 #### 3：[v2rayNG与小火箭教程](https://dlgum.github.io/LazyCat-DD/v2rayNG与小火箭教程)
 
-#### 4：白嫖CND教程在下面
-
 #### 三：教程网盘不限速下载
 
 **https://wwa.lanzous.com/b0dwngrmj**
