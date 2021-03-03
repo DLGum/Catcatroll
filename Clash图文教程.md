@@ -1,6 +1,6 @@
 
+[Clash简介](#Clash简介)
 
-[TOC]
 
 ---
 
