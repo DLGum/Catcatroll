@@ -4,7 +4,7 @@
 
 [二：【安卓设置与使用】](#二：[安卓设置与使用])
 
-[三：【iOS的Pharos Pro】](#三：【iOS的Pharos Pro】)
+[三：【iOS的Pharos Pro】](#三：[iOS的Pharos Pro])
 
 [四：【windows设置与使用】](#四：[windows设置与使用])
 
