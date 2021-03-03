@@ -1,3 +1,5 @@
+### [返回all in one主页](https://catcatroll.fun/)
+
 ## 目录
 
 [Clash简介](#Clash简介)
@@ -271,3 +273,4 @@ Windows。重启电脑。如果不行，重装clash再来。有问题查看Q3。
 
 **当前设备生成只能当前设备导入**
 
+### [返回all in one主页](https://catcatroll.fun/)
