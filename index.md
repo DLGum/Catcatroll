@@ -49,7 +49,7 @@
 ### 客户端项目地址
 ```
 - Qv2ray
-[https://github.com/Qv2ray/Qv2ray/actions?query=workflow%3A%22Qv2ray+Windows+Installer%22](https://github.com/Qv2ray/Qv2ray/actions?query=workflow%3A%22Qv2ray+Windows+Installer%22)
+https://github.com/Qv2ray/Qv2ray/actions?query=workflow%3A%22Qv2ray+Windows+Installer%22
 
 - xray核心程序
 https://github.com/XTLS/Xray-core/releases
