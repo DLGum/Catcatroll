@@ -6,7 +6,7 @@
 
 ### 最近须知
 
-**1：一直以来直接使用不太顺畅可以尝试套CND。教程在下面网盘下载。**
+**1：一直以来使用不太顺畅的可以尝试套CND。教程在下面网盘下载。**
 
 ---
 
@@ -16,15 +16,19 @@
 
 **密码:6666**
 
+#### 客户端选择 - 懒人指路
+
+**安卓v2rayNG,苹果小火箭,电脑Qv2ray**
+
 ---
 
 ### 在线图文教程
 
 #### **1：[Qv2ray图文教程](https://catcatroll.fun/Qv2ray图文教程)**
 
-#### **2：[Clash图文教程](https://catcatroll.fun/Clash图文教程)**
+#### **2：[v2rayNG与小火箭教程](https://catcatroll.fun/v2rayNG与小火箭教程)**
 
-#### **3：[v2rayNG与小火箭教程](https://catcatroll.fun/v2rayNG与小火箭教程)**
+#### **3：[Clash图文教程](https://catcatroll.fun/Clash图文教程)**
 
 ---
 
