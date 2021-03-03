@@ -1,5 +1,7 @@
 ### [返回all in one主页](https://catcatroll.fun/)
 
+---
+
 ## 目录
 
 [Clash简介](#Clash简介)
@@ -39,6 +41,8 @@
 
 **【目前唯一的缺点】是需要出墙后才能确保订阅导入成功，否则经常失败 **
 
+---
+
 # 一：【创建clash订阅链接】
 
 **1：打开网站**<https://bianyuan.xyz/>
@@ -53,7 +57,7 @@
 
 ![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/486193ce45948ea7074ebb06a151ad2d.png)
 
-
+---
 
 # 二：【安卓设置与使用】
 
@@ -67,6 +71,8 @@
 
 **3：导入订阅配置 - 新配置 - ULR - 命名随意，ulr框输入短链接 – 右上角按钮保存**
 
+---
+
 # 三：【iOS的Pharos Pro】
 
 **复制好你生成的订阅链接。**
@@ -74,6 +80,8 @@
 **打开小水滴 – 添加 – 手动输入 – Clash – 下载配置 – 名称随意，地址填订阅链接。**
 
 **（点下载后弹出添加到收藏，随意整）**
+
+---
 
 # 四：【windows设置与使用】
 
@@ -95,6 +103,8 @@
 
 **需要开机启动打开start with windows按钮。**
 
+---
+
 # 五：【mac与linux】详细图文教程
 
 **原来clashr才是mac版。现在clash也有mac版了。**
@@ -102,6 +112,8 @@
 [**https://github.com/Fndroid/clash_for_windows_pkg/releases**](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
 **其他图文教程自己搜搜。这里随便贴一个http://suo.im/5SzxxK**
+
+---
 
 # 六：【【电脑注意配合浏览器插件SwitchyOmega使用】】
 
@@ -157,6 +169,8 @@
 
 **规则更新没那么频繁的。订阅了机场可以填每天更新。**
 
+---
+
 # 七：【iOS的QuantumultX】
 
 **如果你没有Pharos Pro，那也可以整一个这个。**
@@ -175,6 +189,8 @@
 
 ![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/c4a1858486be25bcae3c134411312385.png)
 ![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/91ac567c8810ca562d717f39dcaba3cc.png)
+
+---
 
 # 八：【疑难杂症解决】
 
@@ -205,6 +221,8 @@ Windows。重启电脑。如果不行，重装clash再来。有问题查看Q3。
 
 **答：比较少见。具体原因不明。问题1那个解法走一个，再设回Rule。。出现比较少一般影响不大。【发生此问题时，一般会出现国内网站/软件网速变慢（如视频/信息加载慢）甚至不能打开等问题】**
 
+---
+
 # 九：【客户端下载地址一览】
 
 **- 安卓Clash 下载universal版**
@@ -220,6 +238,8 @@ Windows。重启电脑。如果不行，重装clash再来。有问题查看Q3。
 **- linux**
 
 [**https://github.com/Dreamacro/clash/releases**](https://github.com/Dreamacro/clash/releases)
+
+---
 
 # 十：【Clash导入问题解决】
 
@@ -272,5 +292,7 @@ Windows。重启电脑。如果不行，重装clash再来。有问题查看Q3。
 **导入完成后**
 
 **当前设备生成只能当前设备导入**
+
+---
 
 ### [返回all in one主页](https://catcatroll.fun/)
