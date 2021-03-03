@@ -90,6 +90,12 @@
 
 **1：订阅使用方式**
 
+```
+救命啊填订阅进去不要多出个空格啊
+貌似直接在QQ复制粘贴后会多出来一个空格
+输入后注意看光标是不是离着最后一个字符空了一格，删了就好
+```
+
 ![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/e5cdfacb63de93b350b72a781fdb6c93.png)
 
 **2：vless、trojan、vmess链接，点导入，复制导入**
