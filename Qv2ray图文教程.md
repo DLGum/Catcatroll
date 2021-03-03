@@ -68,7 +68,7 @@
 
 ![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/a7ec0aee53462c182761f5ecb953f5ad.png)![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/7c1d43852c8cee99e4667615bdd52f78.png)
 
-![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/e56c452bd8194cc966ff0ab096138638.png)![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/8a5dac0695053220afd710516bd9df6d.png)
+![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/e56c452bd8194cc966ff0ab096138638.png)
 
 ---
 
@@ -95,7 +95,7 @@
 貌似直接在QQ复制粘贴后会多出来一个空格
 输入后注意看光标是不是离着最后一个字符空了一格，删了就好
 ```
-
+![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/8a5dac0695053220afd710516bd9df6d.png)
 ![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/e5cdfacb63de93b350b72a781fdb6c93.png)
 
 **2：vless、trojan、vmess链接，点导入，复制导入**
