@@ -12,6 +12,12 @@
 
 [**https://github.com/XIU2/CloudflareSpeedTest/releases**](https://github.com/XIU2/CloudflareSpeedTest/releases)
 
+**或者网盘下载**
+
+**[https://wwa.lanzous.com/b0dwngrmj](https://wwa.lanzous.com/b0dwngrmj)**
+
+**密码:6666**
+
 **安卓运行教程**
 
 [**https://github.com/XIU2/CloudflareSpeedTest/discussions/61**](https://github.com/XIU2/CloudflareSpeedTest/discussions/61)
