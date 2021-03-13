@@ -8,11 +8,11 @@
 
 **【这里教程仅以电脑为例】**
 
-**1：下载ip优选工具**
+**1：下载ip优选工具地址**
 
 [**https://github.com/XIU2/CloudflareSpeedTest/releases**](https://github.com/XIU2/CloudflareSpeedTest/releases)
 
-**或者网盘下载**
+**或者网盘下载，教程压缩包包含所需工具**
 
 **[https://wwa.lanzous.com/b0dwngrmj](https://wwa.lanzous.com/b0dwngrmj)**
 
@@ -22,7 +22,7 @@
 
 [**https://github.com/XIU2/CloudflareSpeedTest/discussions/61**](https://github.com/XIU2/CloudflareSpeedTest/discussions/61)
 
-**下载windows版解压**
+**2：下载windows版解压**
 
 **运行CloudflareST.exe**
 
@@ -32,7 +32,7 @@
 
 **这就是所谓的优选ip**
 
-**2：右键WS-CDN线路，编辑**
+**3：右键WS-CDN线路，编辑**
 
 **复制一个优选ip把主机/地址/address改为优选ip**
 
