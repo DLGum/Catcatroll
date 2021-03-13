@@ -36,6 +36,8 @@
 
 #### **3：[Clash图文教程](https://catcatroll.fun/Clash图文教程)**
 
+#### **4：[CDN教程](https://catcatroll.fun/CDN教程)**
+
 ---
 
 ### 教程下载 - 网盘不限速
