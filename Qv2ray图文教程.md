@@ -64,7 +64,9 @@
 
 **内核设置 - 必须设置软件才能运行**
 
-**选定加载xray核心Xray解压目录最好全英文**
+**解压xray核心，选定加载xray核心。**
+
+**Xray核心解压目录最好全英文**
 
 ![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/a7ec0aee53462c182761f5ecb953f5ad.png)![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/7c1d43852c8cee99e4667615bdd52f78.png)
 
@@ -90,19 +92,12 @@
 
 **1：订阅使用方式**
 
-```
-救命啊填订阅进去不要多出个空格啊
-貌似直接在QQ复制粘贴后会多出来一个空格
-输入后注意看光标是不是离着最后一个字符空了一格，删了就好
-```
-![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/8a5dac0695053220afd710516bd9df6d.png)
+**复制订阅不要多复制空格**
+
+**复制订阅不要多复制空格**
+
+![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/00.png)
 ![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/e5cdfacb63de93b350b72a781fdb6c93.png)
-
-**2：vless、trojan、vmess链接，点导入，复制导入**
-
-**3：手填线路：点新建，选择类型后填详细信息。下图vless为例。**
-
-![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/28073c66997cb96d782b0aa7169d32ee.png)
 
 ---
 
@@ -122,7 +117,11 @@
 
 **复制线路、订阅地址时注意别多复制了空格**
 
-![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/e56c452bd8194cc966ff0ab096138638.png)![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/8a5dac0695053220afd710516bd9df6d.png)
+**复制订阅不要多复制空格**
+
+**复制订阅不要多复制空格**
+
+**复制订阅不要多复制空格**
 
 ---
 
