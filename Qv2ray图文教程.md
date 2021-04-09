@@ -42,11 +42,11 @@
 
 # 一：下载【所有下载都可前往蓝奏云盘】
 
-**【windows的我一般会搬运到群文件、蓝奏云下载】**
+**网盘下载[https://wwa.lanzous.com/b0dwj7fkh](https://wwa.lanzous.com/b0dwj7fkh)密码:6666**
 
 1.  **下载安装qv2ray**
 
-**https://github.com/Qv2ray/Qv2ray/releases**
+**项目主页[https://github.com/Qv2ray/Qv2ray/releases](https://github.com/Qv2ray/Qv2ray/releases)**
 
 **或每日构建版（仅推荐追新功能，并且你自己有一定解决问题能力时使用）**
 
@@ -62,11 +62,9 @@
 
 **打开首选项**
 
-**内核设置 - 必须设置软件才能运行**
+**最重要：内核设置 【必须设置软件才能运行】**
 
-**解压xray核心，选定加载xray核心。**
-
-**Xray核心解压目录最好全英文**
+**解压xray核心，选定加载xray核心。。Xray核心解压目录最好全英文**
 
 ![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/a7ec0aee53462c182761f5ecb953f5ad.png)![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/7c1d43852c8cee99e4667615bdd52f78.png)
 
@@ -74,15 +72,15 @@
 
 ---
 
-# 三：trojan需要下载插件支持
+# 三：trojan需要下载插件【推荐直接使用vless线路不用折腾】
 
-**下载trojan插件放到qv安装目录的plugins文件夹**
+**下载trojan插件，放到qv2ray安装目录下的plugins文件夹**
 
-**重启软件即可**
+**重启qv2ray即可**
 
-**项目下载地址（群文件有的）**
+**项目地址<https://github.com/Qv2ray/QvPlugin-Trojan/releases>**
 
-<https://github.com/Qv2ray/QvPlugin-Trojan/releases>
+**网盘下载[https://wwa.lanzous.com/b0dwj7fkh](https://wwa.lanzous.com/b0dwj7fkh)密码:6666**
 
 **它会运行基于xray的trojan。后期可能不需要插件。**
 
