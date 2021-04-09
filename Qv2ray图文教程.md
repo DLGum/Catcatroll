@@ -93,7 +93,7 @@
 **复制订阅不要多复制空格**
 
 **填入订阅后，注意最后不要多一个空格**
-**【注意订阅类型是Base64】**
+**【注意订阅类型，关键字Base64】**
 
 ![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/00.png)
 ![](https://raw.githubusercontent.com/DLGum/pic-bed/main/pic/e5cdfacb63de93b350b72a781fdb6c93.png)
