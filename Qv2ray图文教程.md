@@ -24,7 +24,7 @@
 
 **Qv2ray推荐替代v2rayN**
 
-**无他，软件更稳定好用，作者更爆肝问题修复更及时。**
+**无他，软件更稳定好用，作者更爆肝，问题修复更及时。**
 
 **（看油管翻墙相关视频你会发现那些人用的不是clash就是qv2ray）**
 
@@ -32,9 +32,9 @@
 
 **Qv2ray界面看着更复杂，其实一样的方便好用。用过一次就好。**
 
-**Qv2ray【支持win，mac，linux】**
+**【而且Qv2ray支持win，mac，linux三大平台，用懂一个哪都不愁】**
 
-**官方使用教程**[**https://qv2ray.net/getting-started/**](https://qv2ray.net/getting-started/)
+**官方使用教程<https://qv2ray.net/getting-started/>**
 
 **【这里的教程仅仅以windows端为例】**
 
