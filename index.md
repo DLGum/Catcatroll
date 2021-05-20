@@ -18,7 +18,7 @@
 
 ### 客户端下载 - 网盘不限速
 
-**[https://catcatroll.lanzous.com/b0dwj7fkh](https://catcatroll.lanzous.com/b0dwj7fkh)**
+**[https://catcatroll.lanzoui.com/b0dwj7fkh](https://catcatroll.lanzoui.com/b0dwj7fkh)**
 
 **密码:6666**
 
@@ -44,7 +44,7 @@
 
 ### 教程下载 - 网盘不限速
 
-**[https://catcatroll.lanzous.com/b0dwngrmj](https://catcatroll.lanzous.com/b0dwngrmj)**
+**[https://catcatroll.lanzoui.com/b0dwngrmj](https://catcatroll.lanzoui.com/b0dwngrmj)**
 
 **密码:6666**
 
