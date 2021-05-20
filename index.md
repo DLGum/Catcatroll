@@ -18,7 +18,7 @@
 
 ### 客户端下载 - 网盘不限速
 
-**[https://wwa.lanzous.com/b0dwj7fkh](https://wwa.lanzous.com/b0dwj7fkh)**
+**[https://catcatroll.lanzous.com/b0dwj7fkh](https://catcatroll.lanzous.com/b0dwj7fkh)**
 
 **密码:6666**
 
@@ -29,6 +29,8 @@
 ---
 
 ### 在线图文教程
+
+#### 注意，这些图文教程没梯可能无法加载图片。
 
 #### **1：[Qv2ray图文教程](https://catcatroll.fun/Qv2ray图文教程)**
 
@@ -42,7 +44,7 @@
 
 ### 教程下载 - 网盘不限速
 
-**[https://wwa.lanzous.com/b0dwngrmj](https://wwa.lanzous.com/b0dwngrmj)**
+**[https://catcatroll.lanzous.com/b0dwngrmj](https://catcatroll.lanzous.com/b0dwngrmj)**
 
 **密码:6666**
 
@@ -59,7 +61,7 @@ https://github.com/XTLS/Xray-core/releases
 - v2rayNG
 https://github.com/2dust/v2rayNG/releases
 
-- Clash安卓 一般arm64不懂下universal
+- Clash安卓 一般下arm64不懂的下universal
 https://github.com/Kr328/ClashForAndroid/releases
 
 - Clash电脑
