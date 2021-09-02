@@ -57,7 +57,7 @@
 
 ### 客户端项目地址
 ```
-- AnXray
+- AnXray 一般下arm64
 https://github.com/XTLS/AnXray/releases
 
 - Qv2ray
@@ -66,7 +66,7 @@ https://github.com/Qv2ray/Qv2ray/actions?query=workflow%3A%22Qv2ray+Windows+Inst
 - xray核心程序
 https://github.com/XTLS/Xray-core/releases
 
-- v2rayNG
+- v2rayNG 一般下arm64不懂的下无后缀
 https://github.com/2dust/v2rayNG/releases
 
 - Clash安卓 一般下arm64不懂的下universal
