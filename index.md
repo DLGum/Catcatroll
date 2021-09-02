@@ -57,6 +57,9 @@
 
 ### 客户端项目地址
 ```
+- AnXray
+https://github.com/XTLS/AnXray/releases
+
 - Qv2ray
 https://github.com/Qv2ray/Qv2ray/actions?query=workflow%3A%22Qv2ray+Windows+Installer%22
 
