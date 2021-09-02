@@ -61,7 +61,7 @@
 https://github.com/XTLS/AnXray/releases
 
 - Qv2ray
-https://github.com/Qv2ray/Qv2ray/actions?query=workflow%3A%22Qv2ray+Windows+Installer%22
+作者已弃坑。最终版可以去头上网盘下载。继续用个一年半载问题不大。
 
 - xray核心程序
 https://github.com/XTLS/Xray-core/releases
